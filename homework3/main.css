@@ -1,0 +1,86 @@
+.general{
+    width: 800px;
+    height: 600px;
+    background-color: violet;
+    display: flex;
+    flex-direction: column;
+}
+.first{
+    width: 800px;
+    height: 200px;
+    background-color: darkviolet;
+}
+.second{
+    width: 800px;
+    height: 400px;
+    background-color: pink;
+    display: flex;
+}
+.left{
+    width:600px;
+    height: 400px;
+    background-color: greenyellow;
+}
+.right{
+    width: 200px;
+    height: 400px;
+    background-color: green;
+}
+.general2{
+    width: 800px;
+    height: 600px;
+    background-color: azure;
+    display: flex;
+    flex-direction: column;
+}
+.first2{
+    width: 800px;
+    height: 200px;
+    background-color: dodgerblue;
+}
+.second2{
+    width: 800px;
+    height: 400px;
+    background-color: blue;
+    display: flex;
+    flex-direction: row;
+}
+.left2{
+    width: 600px;
+    height: 400px;
+    background-color: green;
+    display: flex;
+    flex-direction: column;
+}
+.up{
+    width: 600px;
+    height: 200px;
+    background-color: darkcyan;
+}
+.down{
+    width: 600px;
+    height: 200px;
+    background-color: darkgoldenrod;
+    display: flex;
+    flex-direction: row;
+}
+.sq1{
+    width: 33.3%;
+    height: 200px;
+    background-color: orange;
+}
+.sq2{
+    width: 33.3%;
+    height: 200px;
+    background-color: orangered;
+}
+.sq3{
+    width: 33.4%;
+    height: 200px;
+    background-color: coral;
+}
+.right2{
+    width: 200px;
+    height: 400px;
+    background-color: hotpink;
+}
