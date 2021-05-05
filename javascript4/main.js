@@ -377,7 +377,7 @@ function backToPast(){
         const elementPower = document.createElement(arguments[3]);
         elementPower.innerText = car.power;
         elementInner.appendChild(elementPower);
-        
+
         element.appendChild(elementInner);
         document.body.appendChild(element);
     }
